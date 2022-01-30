@@ -37,5 +37,5 @@ public class MatrizTridimensional {
         System.out.println("Soma pares = " + somaPares);
         System.out.println("Soma impares = " + somaImpares);
     }
-    
+
 }
