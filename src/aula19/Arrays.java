@@ -31,5 +31,5 @@ public class Arrays {
             System.out.println(temp);
         }
     }
-    
+
 }
